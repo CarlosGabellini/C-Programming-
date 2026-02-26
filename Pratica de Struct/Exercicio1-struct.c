@@ -6,6 +6,9 @@ struct aluno {
     float nota;
 };
 
+/*Aqui somente é um exercicio simples de struct onde basicamente estou tentando construir um sistema de aluno onde tem a matricula e a sua nota, é 
+muito simples e somente aqui eu tento aprender struct*/
+
 int main () {
 
     struct aluno Alunos;
