@@ -9,6 +9,9 @@ typedef struct {
 
 } produto;
 
+/*Objetivo aqui é aprender struct e pensar como se faz um sistema para uma loja a partir do codigo de algum determinado produto e a relação com a 
+sua quantidade, assim conseguimos calcular o quanto o produto custa, quem é o maior ou menor*/
+
 int main () {
 
     produto produtos[un];
